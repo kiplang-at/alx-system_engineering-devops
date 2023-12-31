@@ -1,1 +1,1 @@
-Shell basics project readme
+Shell basics projects readme
